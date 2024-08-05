@@ -11,3 +11,4 @@ while t:
 
 def temp():
     print("hello")
+    return "temp"
