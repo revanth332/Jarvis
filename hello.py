@@ -8,3 +8,6 @@ while t:
     a,b = [int(i) for i in input().split()]
     print(gcd(min(a,b),max(a,b)),(a*b)//gcd(min(a,b),max(a,b)))
     t-=1
+
+def temp():
+    print("hello")
